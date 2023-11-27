@@ -1,0 +1,7 @@
+.grid-system{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    height: 90vh;
+}
+

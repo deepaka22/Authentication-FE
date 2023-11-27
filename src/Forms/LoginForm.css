@@ -1,0 +1,36 @@
+.heading-color{
+    color: #0866FF;
+}
+.background-color{
+background-color: #F0F2F5;
+height: 100vh;
+}
+.first-column{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    height: 100vh;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.second-column{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    /* width: 100%; */
+}
+.form-height{
+ margin-top: 10vh;
+ margin-bottom: 25vh;
+}
+
+.margin-box{
+margin-left: 0.5rem;
+margin-right: 0.5rem;
+
+}
+
+
